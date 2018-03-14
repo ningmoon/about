@@ -129,12 +129,13 @@ a:after {
 /* Helpers */
 
 .mt {
-	margin-top: 40px;
+	margin-top: 30px;
 	margin-bottom: 40px;
 }
 
 .pt {
-	padding-top: 50px;
+	/* +++++ 主页中间文字部分的上下留白空间大小 +++++ */
+	padding-top: 30px;
 	padding-bottom: 50px;
 }
 
