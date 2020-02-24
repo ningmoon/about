@@ -90,7 +90,7 @@ a:after {
 
 .navbar-inverse {
 	/* +++++ 顶部区域的上下留白空间大小设置 +++++ */
-	padding-bottom: 60px;
+	padding-bottom: 50px; /* padding-bottom: 600px; */
 	padding-top: 60px;
 }
 
